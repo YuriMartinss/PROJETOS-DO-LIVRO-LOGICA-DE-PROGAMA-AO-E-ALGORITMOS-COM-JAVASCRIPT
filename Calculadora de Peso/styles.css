@@ -1,0 +1,37 @@
+* {
+    background-color: azure;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+}
+
+.button{
+    background-color: rgb(55, 151, 240);
+    color: rgb(255, 255, 255); 
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 5px;
+    cursor: pointer;
+     transition: all 0.2s ease;    
+}
+
+.button:hover {
+    background-color: #ff9f9f; 
+    transform: scale(1); 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+
+.button2{
+    background-color: rgb(55, 151, 240);
+    color: rgb(255, 255, 255); 
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+     transition: all 0.2s ease;    
+}
+
+.button2:hover {
+    background-color: #ff9f9f; 
+    transform: scale(1); 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
